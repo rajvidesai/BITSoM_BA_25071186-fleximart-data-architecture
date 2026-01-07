@@ -1,0 +1,18 @@
+CUSTOMERS DATA
+processed: 26
+duplicates: 1
+missing: 5
+loaded: 0
+
+PRODUCTS DATA
+processed: 20
+duplicates: 0
+missing: 0
+loaded: 20
+
+SALES DATA
+processed: 41
+duplicates: 1
+missing: 0
+loaded: 0
+
